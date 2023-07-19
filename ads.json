@@ -1,1 +1,16 @@
-{}
+{
+    "LetsTryAuth": {
+        "projectName": "LetsTryAuth",
+        "description": "Lets see ",
+        "type": "community",
+        "author": "rajanbarara",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/rajanbarara/Agama",
+        "githubUri": "https://github.com/rajanbarara/Agama",
+        "license": "MIT",
+        "lastUpdated": "1689806897920",
+        "tags": [
+            "authentication"
+        ]
+    }
+}
